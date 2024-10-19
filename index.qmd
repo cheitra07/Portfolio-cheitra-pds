@@ -1,0 +1,133 @@
+---
+title: "Cheitra's Portfolio"
+format: revealjs
+editor: visual
+---
+
+## Personal Details:
+
+-   **Name:** Cheitra
+
+-   **Present Designation** : Staff Engineer Data Science
+
+-   **Years of Experience in IT**: 20+ years
+
+-   **Data Science Experience**: 10 years
+
+-   ***Mobile/Whatapp***: 8148501069
+
+-   ***Email*** : cheitra\@hotmail.com
+
+-   ***Linkedin*** : \<www.linkedin.com/in/cheitra-k-677112169\>\
+
+## Introduction:
+
+-   About 10 years of experience in Data Science with Machine learning with R/Python, Tableau, SQL.
+-   10 years of experience as Software Developer web, windows with classic ASP,.Net, R, Python, SQL developer.
+-   Flexible and adaptable in learning and understanding new technologies, Strong written, oral, presentation, interpersonal, communication skills.
+-   Ability to conduct research into software-related issues and products, proven analytical and problem-solving abilities
+-   Experience in working both independently and in a team-oriented, collaborative environment
+
+## Environment:
+
+R,Rshiny,Rmarkdown,Python,Aws,Tableau,PowerBI,Git,Github,Github Actions, Streamlit,Flask,Kubernetes,Docker,Terraform,Jira
+
+## Technical Skills:
+
+| Skills | Details |
+|----|:---|
+| Data Science | R,Python |
+| Machine Learning | EDA,Data wrangling, Data munging, Linear regression, Logistic Regression, Mba, NLP, Word cloud, Naive Bayes, K Means Clustering,Neural Networks, SVM, Time Series,Decision Trees |
+| Deep Learning | ANN, CNN,RNN,LSTM |
+| Generative AI | PostgresML,Gemini,LammaIndex,Aws BedRock,Sagemaker |
+
+## Technical Skills:(ctd...)
+
+| Skills | Details |
+|----|:---|
+| Visualization | Tableau, Power BI, Excel,Rreporter package |
+| Database | SQL Server ,Oracle, Postgres, MySQL, Data Bricks, Snow Flake,Cassendra |
+| OS | Linux, Windows 9x/NT,ubuntu16.04 |
+| Tools | Alteryx, Data Robot,Data bricks, MS project,Jira |
+
+## Technical Skills:
+
+|  |  |
+|----|----|
+| Deployment | Rshiny, Streamlit, Flask, Fast API, AWS deploy,Heroku |
+| others | Spark, Github actions, Bit bucket,Kubernetes,Terraform,Docker,Aws deploy ,Ci/Cd pipeline |
+
+## Certifications
+
+-   Principal Data Science Certification from DASCA
+-   Product Manager Certification from Nextleap(Dec 2023)
+-   udemy Certification on MLOPS with AWS for Data Science,Data Science Project Planning
+-   ineuron certification on Generative AI fundamentals
+
+## Education
+
+-   B.E. Computer Science,MVJCE College,Bangalore University (2000,68.2%)
+-   P.U.C,Catherdal collge,Bangalore(1996 ,70%)
+-   S.S.L.C,Adarsha Vidhyalaya,Tirupati (1994,80%)
+
+## Domains
+
+-   Travel (Acacia)
+-   Hospital Management System (Bgs Global)
+-   CMS
+-   Mobile Network(T-mobile)
+-   Retail(Parryware)
+-   Automobile & manufacturing (Ford,Thyssenkrup)
+-   Health Care(Novartis) (HR analytics)
+-   Pharma (Takeda) (Sales Analysis)
+
+## Projects & Roles and Responsibilities:
+
+***Roles***: - Full Stack Data Scientist - Product Data Scientist - Data Scientist using R,Rshiny - Microsoft Developer for web/windows Applications
+
+## As A Full Stack Data Scientist and Product Manager
+
+-   Engaged in meetings with clients and stakeholders to align\
+    project objectives. -Documented each phase of the project for clarity and tracking. Performed data engineering, collecting data from various sources and implementing ETL processes to make the data suitable for modeling.
+-   Developed machine learning models with iterative experimentation to optimize performance.
+-   Built and integrated both front-end and back-end components.
+-   Deployed the solution on AWS, ensuring continuous monitoring, maintenance, backup, and a disaster recovery plan,Cloud cost management.
+
+## As Product Data Scientist(ctd..)
+
+-   A/B testing of models under same environment,time frame,similar characteristics
+-   PRD documentation
+-   Analyzing Surveys and User Interviews
+-   Root cause analysis using various statistical measures and Google analytics.
+-   Presentation to Stake holders about project progress and developments
+
+## As Product Data Scientist
+
+-   Developing various models that suits the requirement,fine tuned the application,developed UI using streamlit/shiny/flask
+-   Deployed using AWS commit,AWS build,AWS deploy.
+-   Monitored using cloud watch.
+
+## As Data Scientist:(ctd..)
+
+-   Image Duplication Identification using cnn,siemese networks,python
+-   Customer Sentiment Analysis : writing custom packages for word cloud presentation,reports generation,reviews analysis using R,Rshiny,Rmarkdown,NLP, word cloud
+-   Sales(Parryware-manufacturer) Analysis : Behavioral analysis using pareto charts,rfm\
+    charts,cohort analysis done using R,tableau
+-   Warranty parts prediction(Ford-Automobile Manufacturing): warranty parts stock and sales prediction using ann,python,tableau,alteryx,data robot
+
+## As Data Scientist:
+
+-   Hr Attrition(Ford) project: Hr attrition,insights to retain the employer,loss to company prediction if senior executive the company using ann,python
+-   Hr attrition(Novartis-Pharma): Hr attrition,insights to retain the employer,loss to company prediction if senior executive the company using R,Rshiny,snowflake -Sales Analysis(Takeda-Pharma) for non linear model regression using R,Databricks,aws,s3,tableau -Cost Escalation (Thyssenkrup-manufacturer) Cost escalation at delivery after invoice generated using powerbi,lens,python,R,snowflake
+
+## As Web/Windows Developer:(ctd..)
+
+-   Travel portal development management(Acacia-Travel): Travel tickets scheduling,booking,cancellation,API development and management,Database performance issues handling using classic asp,vbscript,javascript,sql
+-   HMS Hospital Management System(BGS Global):Entire modules of Hospital management. using .net,java,c#,oracle
+-   Worked for Department of Juvenile justice(Atlanta,GA) on classic asp,sql application
+
+## As Web/Windows Developer:
+
+-   Logistics Management System using Vb.net,asp and sql
+-   CMS devloping web sites using .net,C#
+-   Mobile(T-mobile-Mobile Network) networks project using classic asp,sql
