@@ -6,6 +6,10 @@ editor: visual
 
 ## Personal Details:
 
+![](images/clipboard-2567944771.png)
+
+![](images/clipboard-2614458471.png)
+
 -   **Name:** Cheitra
 
 -   **Present Designation** : Staff Engineer Data Science
@@ -18,7 +22,7 @@ editor: visual
 
 -   ***Email*** : cheitra\@hotmail.com
 
--   ***Linkedin*** : \<www.linkedin.com/in/cheitra-k-677112169\>\
+-   ***Linkedin*** : \<www.linkedin.com/in/cheitra\>\
 
 ## Introduction:
 
@@ -35,7 +39,7 @@ R,Rshiny,Rmarkdown,Python,Aws,Tableau,PowerBI,Git,Github,Github Actions, Streaml
 ## Technical Skills:
 
 | Skills | Details |
-|----|:---|
+|------------------------------------|:-----------------------------------|
 | Data Science | R,Python |
 | Machine Learning | EDA,Data wrangling, Data munging, Linear regression, Logistic Regression, Mba, NLP, Word cloud, Naive Bayes, K Means Clustering,Neural Networks, SVM, Time Series,Decision Trees |
 | Deep Learning | ANN, CNN,RNN,LSTM |
@@ -44,7 +48,7 @@ R,Rshiny,Rmarkdown,Python,Aws,Tableau,PowerBI,Git,Github,Github Actions, Streaml
 ## Technical Skills:(ctd...)
 
 | Skills | Details |
-|----|:---|
+|------------------------------------|:-----------------------------------|
 | Visualization | Tableau, Power BI, Excel,Rreporter package |
 | Database | SQL Server ,Oracle, Postgres, MySQL, Data Bricks, Snow Flake,Cassendra |
 | OS | Linux, Windows 9x/NT,ubuntu16.04 |
@@ -53,7 +57,7 @@ R,Rshiny,Rmarkdown,Python,Aws,Tableau,PowerBI,Git,Github,Github Actions, Streaml
 ## Technical Skills:
 
 |  |  |
-|----|----|
+|------------------------------------|------------------------------------|
 | Deployment | Rshiny, Streamlit, Flask, Fast API, AWS deploy,Heroku |
 | others | Spark, Github actions, Bit bucket,Kubernetes,Terraform,Docker,Aws deploy ,Ci/Cd pipeline |
 
